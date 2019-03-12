@@ -8,6 +8,7 @@ namespace TestZaGithub
 {
     //tle je test komentarja
     class Program
+        //drugi komentar
     {
         static void Main(string[] args)
         {
