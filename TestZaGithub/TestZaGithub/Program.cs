@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace TestZaGithub
 {
     class Program
+        //drugi komentar
     {
         static void Main(string[] args)
         {
