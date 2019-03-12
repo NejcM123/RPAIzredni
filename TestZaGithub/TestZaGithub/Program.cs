@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestZaGithub
 {
+    //tle je test komentarja
     class Program
     {
         static void Main(string[] args)
